@@ -1,0 +1,5 @@
+Easy explanation of what options are: https://www.investopedia.com/options-basics-tutorial-4583012
+Black and Scholes pricing model for options: https://www.investopedia.com/terms/b/blackscholes.asp
+Explanation of what the VIX is: https://www.investopedia.com/terms/v/vix.asp
+Vix futures curve: https://www.macroption.com/vix-futures-curve/
+
