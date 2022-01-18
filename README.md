@@ -41,7 +41,7 @@ lower price than those at further maturity.
 You can see an example of the curve of futures on VIX in Fig. [1.](#br1)
 
 <p align="center">
-<img src="VIX.png"  width="600"/> </p>
+<img src="figures/VIX.png"  width="600"/> </p>
 <p align="center">
 Figure 1: A typical example of the curve of futures on VIX.
 
