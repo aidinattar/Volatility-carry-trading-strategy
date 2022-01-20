@@ -2,4 +2,4 @@ Easy explanation of what options are: https://www.investopedia.com/options-basic
 Black and Scholes pricing model for options: https://www.investopedia.com/terms/b/blackscholes.asp
 Explanation of what the VIX is: https://www.investopedia.com/terms/v/vix.asp
 Vix futures curve: https://www.macroption.com/vix-futures-curve/
-
+Heston model: https://www.investopedia.com/terms/h/heston-model.asp#:~:text=The%20Heston%20Model%20is%20an,model%20that%20holds%20volatility%20constant
