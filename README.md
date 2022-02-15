@@ -3,6 +3,8 @@ Modelling the implicit volatility, using multi-factor statistical models.
 
 Laboratory of Computational Physics course A.Y. 2021/2022.
 
+Project by Aidin Attar, Bahador Amjadi, Ema Baci and Melika Keshavarzmirzamohammadi
+
 Prof. Marco Zanetti
 
 **XSOR Capital LTD**
