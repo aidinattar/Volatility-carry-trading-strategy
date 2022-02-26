@@ -4,3 +4,4 @@ Explanation of what the VIX is:                 https://www.investopedia.com/ter
 Vix futures curve:                              https://www.macroption.com/vix-futures-curve/
 Heston model:                                   https://www.investopedia.com/terms/h/heston-model.asp#:~:text=The%20Heston%20Model%20is%20an,model%20that%20holds%20volatility%20constant
 Solution for Heston model in c++:               https://www.quantstart.com/articles/Heston-Stochastic-Volatility-Model-with-Euler-Discretisation-in-C/
+Calibration and simulation of Heston model:     https://www.degruyter.com/document/doi/10.1515/math-2017-0058/html#:~:text=The%20main%20parameters%20of%20interest,increases%20the%20prices%20of%20options
