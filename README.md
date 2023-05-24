@@ -10,8 +10,6 @@ Prof. Marco Zanetti
 **XSOR Capital LTD**
 - Stefano Soricetti
 - Alessio Pieri
-- Andrea Perin
-- Federico Graceffa
 
 ## Introduction
 
